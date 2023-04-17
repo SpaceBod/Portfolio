@@ -4,8 +4,10 @@
     --secondary-color: #fff;
     --text-color: #fff;
     --text-color-2: #fff;
-    --text-color-3: rgb(204, 0, 0);
+    --text-color-3: rgb(255, 255, 255);
+    --text-color-4: rgb(204, 0, 0);
     --overlay-color: rgb(12 12 12 / 63%);
+    --dot-color: rgba(100, 100, 100, 0.7);
 }
 
 [data-theme="light"] {
@@ -14,8 +16,10 @@
     --secondary-color: #000;
     --text-color: #000;
     --text-color-2: #000;
-    --text-color-3: rgb(204, 0, 0);
+    --text-color-3: rgb(0 0 0);
+    --text-color-4: rgb(204, 0, 0);
     --overlay-color: rgb(255 255 255 / 70%);
+    --dot-color: rgb(100 100 100 / 70%);
 }
 
 html,
@@ -84,7 +88,7 @@ code {
 
 .cursor__dot div:first-child {
     filter: invert(1);
-    background-color: var(--overlay-color) !important;
+    background-color: var(--dot-color) !important;
 }
 
 .color_pr {
