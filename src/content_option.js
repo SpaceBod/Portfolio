@@ -12,7 +12,7 @@ const introdata = {
         third: "> Photographer",
     },
     description: "Current 3rd year student at Imperial College London, studying Electronic and Information Engineering (MEng).",
-    your_img_url: "https://p1.pxfuel.com/preview/878/443/652/architectural-design-architecture-black-and-white-building-modern-architecture-modern.jpg",
+    your_img_url: "https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/img/home.jpg",
 };
 
 const dataabout = {
