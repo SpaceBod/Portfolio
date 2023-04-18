@@ -92,11 +92,19 @@ fetch(repoUrl)
   .then(data => {
     // Use a forEach loop to create an object for each repository and add it to the dataportfolio array
     data.forEach(repo => {
-        if (repo.name !== "Portfolio" && repo.name !== "SpaceBod") {
+        if (repo.name !== "Portfolio" && repo.name !== "SpaceBod" & repo.name !== "ES-synth-starter" & repo.name !== "EZParking") {
             const item = {
-              img: "https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/img/home.jpg",
-              description: repo.name,
-              link: repo.html_url
+            img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
+                description: repo.name,
+                link: repo.html_url
+            };
+            dataportfolio.push(item);
+        }
+        if (repo.name === "EZParking") {
+            const item = {
+                img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
+                description: "EZParking Website",
+                link: "https://spacebod.github.io/EZParking/"
             };
             dataportfolio.push(item);
           }

@@ -1,7 +1,7 @@
 .po_items_ho {
     column-width: 15em;
     -moz-column-width: 15em;
-    -webkit-column-width: 15em;
+    -webkit-column-width: 10em;
     column-gap: 4rem;
     -moz-column-gap: 4rem;
     -webkit-column-gap: 2rem;
@@ -9,21 +9,28 @@
 
 .po_item {
     display: inline-block;
-    width: 100%;
-    min-height: 150px;
+    width: 200px;
+    min-height: 200px;
     text-align: center;
     margin: 0.5rem auto;
     position: relative;
     background: var(--secondary-color);
-    padding: 6px;
+    padding: 1px;
     border: 1px solid var(--secondary-color);
     transition: 0.3s ease;
     font-size: 0;
+    margin-top: 20px;
 }
 
 .po_item img {
     max-width: 100%;
-    max-height: 150px;
+    max-height: 200px;
+    filter: none;
+}
+
+.po_item:hover img {
+    filter: blur(3px); /* Add this line to apply the blur effect */
+    transition: filter 0.3s ease; /* Add transition effect for the filter property */
 }
 
 .po_item .content {
@@ -58,8 +65,8 @@
 }
 
 .po_item:hover .content {
-    height: calc(100% - 30px);
-    width: calc(100% - 30px);
+    height: 60%;
+    width: 100%;
     opacity: 1;
 }
 
