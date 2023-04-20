@@ -20,10 +20,10 @@ export const Photography = () => (
       </Row>
       <div class="image-container">
         <div class="images">
-          <div><img src="/img/cave.jpg" alt="Cave"/></div>
-          <div><img src="https://lh3.googleusercontent.com/SJ9N5ur6GGBHFA3EROoPxS7muGwGDUjY7zWSBFObOvCbcbq7NxeCID9udnbrKaeLIt2zO_Fcbkpsv8AGspB2YLIRmBcwAMqBc-rqhV4aKK3GNJzRPSZYKFIwMI5FTNOliR-9yp_REg" alt="Mountain"/></div>
-          <div><img src="https://lh3.googleusercontent.com/A4H3AgOLs4jMDvAU2rztMVRBy03KDVQ9uvvDjWjvDX_XwoaUix0a6VEUG16s_3Il7c0RF8UsaT1CBS-iWzT3a_RZQpOJcA6qkdj9li9rB5gZyd6q30adJRQIYplfOgK0XoH3ivAE_g" alt="Cycling"/></div>
-          <div><img src="https://lh3.googleusercontent.com/F0HKH-4SXF90lQYFq2NFPt6Mr8OMsxmuqw45gGaDMxO7TsoEqutj7xMnupdSr_ypdtrWG5WcFoJYp7Vv79JSgzDxDReq7paYxKPq9zk-_3kD8PHT8dovIuYAA_Rfd3pdSLrMUfowhg" alt="Food1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Cave"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Mountain"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cycling.jpg" alt="Cycling"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant.jpg" alt="Food1"/></div>
           <div><img src="https://lh3.googleusercontent.com/tiiolFW2bHw3XCTQWMu1s240HKAnwPyig7Z7Lyu01YcdGhQzvVBVqxgienAAkzqcBhbPl9km-eUzQwuzbdnxMQIaMnQsdAR0wVEq5MTINvssZ1deOB7xPB7LTd_s93gV5Dn-0rTKxA" alt="Skater"/></div>
           <div><img src="https://lh3.googleusercontent.com/3yUWnTRMrVEUqTW6inWGCeD70CQ0wfPW0O2SRUpKu2OZsDYVdQteBfovhVQA5EBLFCCnW4RT8h6HpbGCI1Z_y2HQZE8SoLALCYhH9-agrdpkFyd4ayehtHG6v3gwLmjvRfkkzpYtew" alt="Singer"/></div>
           <div><img src="https://lh3.googleusercontent.com/myBGPzefPZPQVplEaUKbLwDZNw9uiFuqfDySey2iTgzzWCXYnOM45jajk_Pm-ckOkkwynvuKqjH_yunV7qP35EjDhbealMHn8tm1wPt_130KZGs8J2W16tvCKNEwpLiy6E_yqmhPTQ" alt="FS1"/></div>
