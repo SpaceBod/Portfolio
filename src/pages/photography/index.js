@@ -28,6 +28,10 @@ export const Photography = () => (
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow1.jpg" alt="Fashion Show 1"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow2.jpg" alt="Fashion Show 2"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow3.jpg" alt="Fashion Show 3"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow4.jpg" alt="Fashion Show 4"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/dance1.jpg" alt="Dance Group 1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/dance2.jpg" alt="Dance Group 2"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow5.jpg" alt="Fashion Show 5"/></div>
           <div><img src="https://lh3.googleusercontent.com/ipug0Ntm-IzF51M4I_HqSjQkbEyE5IiPEQoEHVi-omyFFlZHMvKG686KHQBvB_Z024ETLLkQ512lC5dqdykuUCsNKP6pJ5YOvmu_PV0siJ_ZH2IfQCgS5g0cauDihk9LYEIYgQAAsw" alt="Thailand1"/></div>
           <div><img src="https://lh3.googleusercontent.com/vRz1cBLmyW7uLfVaHTbI1qkRi8QIq4KLPTJ4VE2bs_Vj0Jw-Bt2byzXTnTpfdSXj-UhMGf2VqAUorzbK5zleO46m6kdl0YxTy5tj7eZVRdcwDYfP7x3QhX4koGCvWfipx6-uToDJPw" alt="Thailand2"/></div>
           <div><img src="https://lh3.googleusercontent.com/-50lqJ89Q2F3cMf9xrbU51e4gbqJ2uFIKUat8hN6nHB5BK_HdyejyFNZdMO70dOBhNHH4k70ljiosHcxzBvXN_KdDbyDn0VdVaGO_LnIxT_wGwXluFExzT_FHgcGfgRDWBjWEfQYbw" alt="Food2"/></div>
