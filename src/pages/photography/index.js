@@ -20,13 +20,14 @@ export const Photography = () => (
       </Row>
       <div class="image-container">
         <div class="images">
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Cave"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Welsh Cave"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Mountain"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/bike.jpg" alt="Cycling"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Food1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Restaurant Food"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
-          <div><img src="https://lh3.googleusercontent.com/3yUWnTRMrVEUqTW6inWGCeD70CQ0wfPW0O2SRUpKu2OZsDYVdQteBfovhVQA5EBLFCCnW4RT8h6HpbGCI1Z_y2HQZE8SoLALCYhH9-agrdpkFyd4ayehtHG6v3gwLmjvRfkkzpYtew" alt="Singer"/></div>
-          <div><img src="https://lh3.googleusercontent.com/myBGPzefPZPQVplEaUKbLwDZNw9uiFuqfDySey2iTgzzWCXYnOM45jajk_Pm-ckOkkwynvuKqjH_yunV7qP35EjDhbealMHn8tm1wPt_130KZGs8J2W16tvCKNEwpLiy6E_yqmhPTQ" alt="FS1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/singer.jpg" alt="Singer"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow1.jpg" alt="Fashion Show 1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow2.jpg" alt="Fashion Show 2"/></div>
           <div><img src="https://lh3.googleusercontent.com/ipug0Ntm-IzF51M4I_HqSjQkbEyE5IiPEQoEHVi-omyFFlZHMvKG686KHQBvB_Z024ETLLkQ512lC5dqdykuUCsNKP6pJ5YOvmu_PV0siJ_ZH2IfQCgS5g0cauDihk9LYEIYgQAAsw" alt="Thailand1"/></div>
           <div><img src="https://lh3.googleusercontent.com/vRz1cBLmyW7uLfVaHTbI1qkRi8QIq4KLPTJ4VE2bs_Vj0Jw-Bt2byzXTnTpfdSXj-UhMGf2VqAUorzbK5zleO46m6kdl0YxTy5tj7eZVRdcwDYfP7x3QhX4koGCvWfipx6-uToDJPw" alt="Thailand2"/></div>
           <div><img src="https://lh3.googleusercontent.com/-50lqJ89Q2F3cMf9xrbU51e4gbqJ2uFIKUat8hN6nHB5BK_HdyejyFNZdMO70dOBhNHH4k70ljiosHcxzBvXN_KdDbyDn0VdVaGO_LnIxT_wGwXluFExzT_FHgcGfgRDWBjWEfQYbw" alt="Food2"/></div>
