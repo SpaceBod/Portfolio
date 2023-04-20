@@ -20,7 +20,7 @@ export const Photography = () => (
       </Row>
       <div class="image-container">
         <div class="images">
-          <div><img src="img/cave.jpg" alt="Cave"/></div>
+          <div><img src="/img/cave.jpg" alt="Cave"/></div>
           <div><img src="https://lh3.googleusercontent.com/SJ9N5ur6GGBHFA3EROoPxS7muGwGDUjY7zWSBFObOvCbcbq7NxeCID9udnbrKaeLIt2zO_Fcbkpsv8AGspB2YLIRmBcwAMqBc-rqhV4aKK3GNJzRPSZYKFIwMI5FTNOliR-9yp_REg" alt="Mountain"/></div>
           <div><img src="https://lh3.googleusercontent.com/A4H3AgOLs4jMDvAU2rztMVRBy03KDVQ9uvvDjWjvDX_XwoaUix0a6VEUG16s_3Il7c0RF8UsaT1CBS-iWzT3a_RZQpOJcA6qkdj9li9rB5gZyd6q30adJRQIYplfOgK0XoH3ivAE_g" alt="Cycling"/></div>
           <div><img src="https://lh3.googleusercontent.com/F0HKH-4SXF90lQYFq2NFPt6Mr8OMsxmuqw45gGaDMxO7TsoEqutj7xMnupdSr_ypdtrWG5WcFoJYp7Vv79JSgzDxDReq7paYxKPq9zk-_3kD8PHT8dovIuYAA_Rfd3pdSLrMUfowhg" alt="Food1"/></div>
@@ -33,7 +33,7 @@ export const Photography = () => (
           <div><img src="https://lh3.googleusercontent.com/s2y7lzBetVmbQFAd5uE9oGRjblqVxfahHC5phwOE8ry7G6IKn_0SyI0jlsF5zREeVP1kdnW3_Dqfq0fE2oSFQgZq4vxNwW2DZqDLPD0_2_4fAzzIkD_Lb1rU3hlvrjUF9-Fzu43Lsw" alt="Dance Group"/></div>
           <div><img src="https://lh3.googleusercontent.com/PwV1440BmMOLBTwuwEJ6gjVq5IBC5OR2qtNMViSCOLzLwoB0II7vVM8jZLeWaZ-Li9aScqgMzupQDfC6QMQVC-gJyZYfQwDQqsvcRhb6s0e9RXkzu9J6EvuNcVmrz2ZWn0PTtCYDlQ" alt="Dancer"/></div>
           <div><img src="https://lh3.googleusercontent.com/u3RGQ7_YPaAn3v81oBSJv0RG8Rc-ZtWh2eTWOc0Gw58ODTS8dsPGKJGfMsUVOoh23799Gva0Zag_AFyhrflLwyRok2uwIm14KM634W2SxPYye9BOLHlqwWwSxYTSyRhxjNmWjUlScg" alt="Guitarist"/></div>
-          <div><img src="https://lh3.googleusercontent.com/g8zIttyRVkRN66aCx5kL8cc0G9SOnMRrYREW8kZk7oO4-aaWOYOHhU7uQTVE1tzmOTgUKKZmrUpNjLbxHyed5mLudbs2fzpc-lRANHqQ3LpaijOgyrxXibMGxUxex6WVeYJW8qaRPA" alt="David"/></div>
+          <div><img src="https://lh3.googleusercontent.com/g8zIttyRVkRN66aCx5kL8cc0G9SOnMRrYREW8kZk7oO4-aaWOYOHhU7uQTVE1tzmOTgUKKZmrUpNjLbxHyed5mLudbs2fzpc-lRANHqQ3LpaijOgyrxXibMGxUxex6WVeYJW8qaRPA=w800" alt="David"/></div>
           
         </div>
       </div>
