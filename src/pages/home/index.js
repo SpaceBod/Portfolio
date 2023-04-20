@@ -33,14 +33,14 @@ export const Home = () => {
                       ],
                       autoStart: true,
                       loop: true,
-                      deleteSpeed: 10,
+                      deleteSpeed: 8,
                     }}
                   />
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
                   <Link to="/portfolio" className="text_2">
-                    <div id="button_p" className="ac_btn btn ">
+                    <div id="button_h" className="ac_btn btn ">
                       My Portfolio
                       <div className="ring one"></div>
                       <div className="ring two"></div>
@@ -48,20 +48,22 @@ export const Home = () => {
                     </div>
                   </Link>
                   <Link to="/photography" className="text_2">
-                    <div id="button_p" className="ac_btn btn ">
+                    <div id="button_h" className="ac_btn btn ">
                       Photography
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="/contact">
-                    <div id="button_h" className="ac_btn btn">
-                      Contact Me
-                      <div className="ring one"></div>
-                      <div className="ring two"></div>
-                      <div className="ring three"></div>
-                    </div>
+                  <Link to="/contact" className="text_2">
+                  <div id="container">
+                    <button class="learn-more">
+                      <span class="circle" aria-hidden="true">
+                        <span class="icon arrow"></span>
+                      </span>
+                      <span class="button-text">Contact</span>
+                    </button>
+                  </div>
                   </Link>
                 </div>
               </div>
