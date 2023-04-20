@@ -20,10 +20,12 @@ export const Photography = () => (
       </Row>
       <div class="image-container">
         <div class="images">
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Welsh Cave"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Mountain"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/bike.jpg" alt="Cycling"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Restaurant Food"/></div>
+          
+          
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Restaurant Food 1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/sushi1.jpg" alt="Restaurant Food 1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/sushi2.jpg" alt="Restaurant Food 2"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant2.jpg" alt="Restaurant Food 2"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/singerFS.jpg" alt="Singer"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow1.jpg" alt="Fashion Show 1"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow2.jpg" alt="Fashion Show 2"/></div>
@@ -40,7 +42,9 @@ export const Photography = () => (
           <div><img src="https://lh3.googleusercontent.com/u3RGQ7_YPaAn3v81oBSJv0RG8Rc-ZtWh2eTWOc0Gw58ODTS8dsPGKJGfMsUVOoh23799Gva0Zag_AFyhrflLwyRok2uwIm14KM634W2SxPYye9BOLHlqwWwSxYTSyRhxjNmWjUlScg" alt="Guitarist"/></div>
           <div><img src="https://lh3.googleusercontent.com/g8zIttyRVkRN66aCx5kL8cc0G9SOnMRrYREW8kZk7oO4-aaWOYOHhU7uQTVE1tzmOTgUKKZmrUpNjLbxHyed5mLudbs2fzpc-lRANHqQ3LpaijOgyrxXibMGxUxex6WVeYJW8qaRPA=w800" alt="David"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
-          
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Welsh Cave"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Restaurant"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/bike.jpg" alt="Cycling"/></div>
         </div>
       </div>
     </Container>
