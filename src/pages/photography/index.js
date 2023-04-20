@@ -22,9 +22,9 @@ export const Photography = () => (
         <div class="images">
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Cave"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Mountain"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cycling.jpg" alt="Cycling"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant.jpg" alt="Food1"/></div>
-          <div><img src="https://lh3.googleusercontent.com/tiiolFW2bHw3XCTQWMu1s240HKAnwPyig7Z7Lyu01YcdGhQzvVBVqxgienAAkzqcBhbPl9km-eUzQwuzbdnxMQIaMnQsdAR0wVEq5MTINvssZ1deOB7xPB7LTd_s93gV5Dn-0rTKxA" alt="Skater"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/bike.jpg" alt="Cycling"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Food1"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
           <div><img src="https://lh3.googleusercontent.com/3yUWnTRMrVEUqTW6inWGCeD70CQ0wfPW0O2SRUpKu2OZsDYVdQteBfovhVQA5EBLFCCnW4RT8h6HpbGCI1Z_y2HQZE8SoLALCYhH9-agrdpkFyd4ayehtHG6v3gwLmjvRfkkzpYtew" alt="Singer"/></div>
           <div><img src="https://lh3.googleusercontent.com/myBGPzefPZPQVplEaUKbLwDZNw9uiFuqfDySey2iTgzzWCXYnOM45jajk_Pm-ckOkkwynvuKqjH_yunV7qP35EjDhbealMHn8tm1wPt_130KZGs8J2W16tvCKNEwpLiy6E_yqmhPTQ" alt="FS1"/></div>
           <div><img src="https://lh3.googleusercontent.com/ipug0Ntm-IzF51M4I_HqSjQkbEyE5IiPEQoEHVi-omyFFlZHMvKG686KHQBvB_Z024ETLLkQ512lC5dqdykuUCsNKP6pJ5YOvmu_PV0siJ_ZH2IfQCgS5g0cauDihk9LYEIYgQAAsw" alt="Thailand1"/></div>
