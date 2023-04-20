@@ -24,8 +24,7 @@ export const Photography = () => (
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Mountain"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/bike.jpg" alt="Cycling"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/restaurant1.jpg" alt="Restaurant Food"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
-          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/singer.jpg" alt="Singer"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/singerFS.jpg" alt="Singer"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow1.jpg" alt="Fashion Show 1"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/fashionShow2.jpg" alt="Fashion Show 2"/></div>
           <div><img src="https://lh3.googleusercontent.com/ipug0Ntm-IzF51M4I_HqSjQkbEyE5IiPEQoEHVi-omyFFlZHMvKG686KHQBvB_Z024ETLLkQ512lC5dqdykuUCsNKP6pJ5YOvmu_PV0siJ_ZH2IfQCgS5g0cauDihk9LYEIYgQAAsw" alt="Thailand1"/></div>
@@ -35,6 +34,7 @@ export const Photography = () => (
           <div><img src="https://lh3.googleusercontent.com/PwV1440BmMOLBTwuwEJ6gjVq5IBC5OR2qtNMViSCOLzLwoB0II7vVM8jZLeWaZ-Li9aScqgMzupQDfC6QMQVC-gJyZYfQwDQqsvcRhb6s0e9RXkzu9J6EvuNcVmrz2ZWn0PTtCYDlQ" alt="Dancer"/></div>
           <div><img src="https://lh3.googleusercontent.com/u3RGQ7_YPaAn3v81oBSJv0RG8Rc-ZtWh2eTWOc0Gw58ODTS8dsPGKJGfMsUVOoh23799Gva0Zag_AFyhrflLwyRok2uwIm14KM634W2SxPYye9BOLHlqwWwSxYTSyRhxjNmWjUlScg" alt="Guitarist"/></div>
           <div><img src="https://lh3.googleusercontent.com/g8zIttyRVkRN66aCx5kL8cc0G9SOnMRrYREW8kZk7oO4-aaWOYOHhU7uQTVE1tzmOTgUKKZmrUpNjLbxHyed5mLudbs2fzpc-lRANHqQ3LpaijOgyrxXibMGxUxex6WVeYJW8qaRPA=w800" alt="David"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
           
         </div>
       </div>
