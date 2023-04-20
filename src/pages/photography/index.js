@@ -38,6 +38,10 @@ export const Photography = () => (
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai2.jpg" alt="Thai 2"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai3.jpg" alt="Thai 3"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai4.jpg" alt="Thai 4"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai5.jpg" alt="Thai 5"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai6.jpg" alt="Thai 6"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai7.jpg" alt="Thai 7"/></div>
+          <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/thai8.jpg" alt="Thai 8"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/skater.jpg" alt="Skater"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/cave.jpg" alt="Welsh Cave"/></div>
           <div><img src="https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/pages/photography/img/mountain.jpg" alt="Restaurant"/></div>
