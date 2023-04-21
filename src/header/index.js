@@ -15,7 +15,6 @@ const Headermain = () => {
 
   return (
     <>
-    <div className="topBar"></div>
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
           <Link  className="navbar-brand nav_ac" to="/">
@@ -26,7 +25,6 @@ const Headermain = () => {
           <button className="menu__button  nav_ac" onClick={handleToggle}>
             {!isActive ? <VscClose /> : <VscGrabber />}
           </button>
-          
           </div>
         </div>
 
