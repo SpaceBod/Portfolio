@@ -33,6 +33,7 @@ export default function App() {
         />
       </div>
       <ScrollToTop>
+      <div className="header"></div>
         <Headermain />
         <AppRoutes />
       </ScrollToTop>
