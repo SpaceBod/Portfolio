@@ -56,14 +56,14 @@ export const Home = () => {
                     </div>
                   </Link>
                   <Link to="/contact" className="text_2">
-                  <div id="container">
-                    <button class="learn-more">
-                      <span class="circle" aria-hidden="true">
-                        <span class="icon arrow"></span>
-                      </span>
-                      <span class="button-text">Contact</span>
-                    </button>
-                  </div>
+                    <div id="container">
+                      <button class="learn-more">
+                        <span class="circle" aria-hidden="true">
+                          <span class="icon arrow"></span>
+                        </span>
+                        <span class="button-text">Contact</span>
+                      </button>
+                    </div>
                   </Link>
                 </div>
               </div>

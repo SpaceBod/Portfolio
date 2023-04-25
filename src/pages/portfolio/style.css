@@ -32,8 +32,10 @@
 }
 
 .po_item:hover img {
-    filter: blur(3px); /* Add this line to apply the blur effect */
-    transition: filter 0.3s ease; /* Add transition effect for the filter property */
+    filter: blur(3px);
+    /* Add this line to apply the blur effect */
+    transition: filter 0.3s ease;
+    /* Add transition effect for the filter property */
 }
 
 .po_item .content {

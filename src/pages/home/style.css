@@ -40,7 +40,7 @@ section {
 @media (max-width:991.98px) {
     .intro_sec {
         display: block;
-        height: auto!important;
+        height: auto !important;
     }
 }
 
@@ -50,6 +50,7 @@ section {
 }
 
 @media (max-width:991.98px) {
+
     .intro_sec .text,
     .intro_sec .h_bg-image {
         width: 100%;
@@ -70,7 +71,7 @@ section {
 }
 
 .intro_sec .intro .feature .wrap-icon {
-    background: 0 0!important;
+    background: 0 0 !important;
     width: auto;
     height: auto;
     margin-bottom: 0;
@@ -203,6 +204,7 @@ section {
         min-height: 75vh;
         margin-bottom: 30px;
     }
+
     .intro_sec .h_bg-image .block {
         top: unset;
         bottom: 0;
@@ -239,99 +241,99 @@ section {
 }
 
 * {
-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 *::before,
 *::after {
-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 button {
-position: relative;
-margin-top: 20px;
-display: inline-block;
-cursor: pointer;
-outline: none;
-border: 0;
-vertical-align: middle;
-text-decoration: none;
-background: transparent;
-padding: 0;
-font-size: 14px;
-font-family: inherit;
+    position: relative;
+    margin-top: 20px;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    padding: 0;
+    font-size: 14px;
+    font-family: inherit;
 }
 
 button.learn-more {
-width: 12rem;
-height: auto;
+    width: 12rem;
+    height: auto;
 }
 
 button.learn-more .circle {
-position: relative;
-display: block;
-margin: 0;
-width: 2.5rem;
-height: 2.5rem;
-background: var(--secondary-color);
-border-radius: 0;
-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: relative;
+    display: block;
+    margin: 0;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: var(--secondary-color);
+    border-radius: 0;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
 }
 
 button.learn-more .circle .icon {
-position: absolute;
-top: 0;
-bottom: 0;
-margin: auto;
-background: var(--primary-color);
-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: var(--primary-color);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
 }
 
 button.learn-more .circle .icon.arrow {
-left: 0.325rem;
-width: 1.125rem;
-height: 0.125rem;
-background: none;
-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    left: 0.325rem;
+    width: 1.125rem;
+    height: 0.125rem;
+    background: none;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
 }
 
 button.learn-more .circle .icon.arrow::before {
-position: absolute;
-content: '';
-top: -0.25rem;
-right: 0.0625rem;
-width: 0.625rem;
-height: 0.625rem;
-border-top: 0.125rem solid var(--primary-color);
-border-right: 0.125rem solid var(--primary-color);
-transform: rotate(45deg);
+    position: absolute;
+    content: '';
+    top: -0.25rem;
+    right: 0.0625rem;
+    width: 0.625rem;
+    height: 0.625rem;
+    border-top: 0.125rem solid var(--primary-color);
+    border-right: 0.125rem solid var(--primary-color);
+    transform: rotate(45deg);
 }
 
 button.learn-more .button-text {
-position: absolute;
-top: -0.15rem;
-left: 0;
-right: 30px;
-bottom: 0;
-padding: 0.75rem 0;
-margin: 0 0 0 1.85rem;
-color: var(--secondary-color);
-font-weight: 700;
-line-height: 1.6;
-text-align: center;
-text-transform: uppercase;
-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: -0.15rem;
+    left: 0;
+    right: 30px;
+    bottom: 0;
+    padding: 0.75rem 0;
+    margin: 0 0 0 1.85rem;
+    color: var(--secondary-color);
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
 }
 
 button:hover .circle {
-width: 80%;
+    width: 80%;
 }
 
 button:hover .circle .icon.arrow {
-background: var(--primary-color);
-transform: translate(0.7rem, 0);
+    background: var(--primary-color);
+    transform: translate(0.7rem, 0);
 }
 
 button:hover .button-text {
-color: var(--primary-color);
+    color: var(--primary-color);
 }

@@ -88,36 +88,36 @@ const repoUrl = "https://api.github.com/users/spacebod/repos";
 let dataportfolio = [];
 // Fetch the repository data from GitHub's API
 fetch(repoUrl)
-  .then(response => response.json())
-  .then(data => {
-    // Use a forEach loop to create an object for each repository and add it to the dataportfolio array
-    data.forEach(repo => {
-        if (repo.name !== "Portfolio" && repo.name !== "SpaceBod" & repo.name !== "ES-synth-starter" & repo.name !== "EZParking") {
-            const item = {
-            img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
-                description: repo.name,
-                link: repo.html_url
-            };
-            dataportfolio.push(item);
-        }
-        if (repo.name === "EZParking") {
-            const item = {
-                img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
-                description: "EZParking Website",
-                link: "https://spacebod.github.io/EZParking/"
-            };
-            dataportfolio.push(item);
-          }
+    .then(response => response.json())
+    .then(data => {
+        // Use a forEach loop to create an object for each repository and add it to the dataportfolio array
+        data.forEach(repo => {
+            if (repo.name !== "Portfolio" && repo.name !== "SpaceBod" & repo.name !== "ES-synth-starter" & repo.name !== "EZParking") {
+                const item = {
+                    img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
+                    description: repo.name,
+                    link: repo.html_url
+                };
+                dataportfolio.push(item);
+            }
+            if (repo.name === "EZParking") {
+                const item = {
+                    img: "https://raw.githubusercontent.com/SpaceBod/" + repo.name + "/main/img/title.jpg",
+                    description: "EZParking Website",
+                    link: "https://spacebod.github.io/EZParking/"
+                };
+                dataportfolio.push(item);
+            }
+        });
+    })
+    .catch(error => {
+        console.error("Error fetching repository data:", error);
     });
-  })
-  .catch(error => {
-    console.error("Error fetching repository data:", error);
-  });
 
 const contactConfig = {
     YOUR_EMAIL: "gianluca@fenocchi.net",
     YOUR_FONE: "(+44) 777 00 54312",
-    description: "Please feel free to reach out to me.",
+    description: "Please feel free to get in touch.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_portfolio",
