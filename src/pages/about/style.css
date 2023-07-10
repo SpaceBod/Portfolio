@@ -100,3 +100,17 @@
         transform: translateZ(0);
     }
 }
+
+.profile-image {
+    margin-top: 20px;
+    width: 30%;
+    min-width: 400px;
+    height: auto;
+    position: relative;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}

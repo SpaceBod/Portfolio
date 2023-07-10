@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Background",
-    aboutme: "As an Electronic & Information Engineer based in London, I have a passion for developing elegant, efficient solutions to complex problems. With experience in programming languages such as Python, JavaScript, and C++, and a familiarity with frameworks like React and Node.js, I bring a diverse range of technical skills to my work. I thrive on collaborating with others to bring projects to life, and I am always looking for new challenges that push me to learn and grow. In addition to my technical skills, I am also an experienced photographer. I specialise in event, sport and portrait photography, and I am always looking for opportunities to use my creative eye to capture stunning images.",
+    aboutme: "As an Electronic & Information Engineer based in London, I have a passion for developing elegant, efficient solutions to complex problems. I have a strong interest in Artificial Intelligence and Machine Learning. With experience in programming languages such as Python, JavaScript, and C++, and a familiarity with frameworks like React and Node.js, I bring a diverse range of technical skills to my work. I thrive on collaborating with others to bring projects to life, and I am always looking for new challenges that push me to learn and grow. In addition to my technical skills, I am also an experienced photographer. I specialise in event, sport and portrait photography, and I am always looking for opportunities to use my creative eye to capture stunning images.",
 };
 const worktimeline = [{
     jobtitle: "MEng Student (2024)",

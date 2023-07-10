@@ -5,6 +5,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig } from "../../content_option";
+import { Link } from "react-router-dom";
 
 export const ContactUs = () => {
   const [formData, setFormdata] = useState({
@@ -74,7 +75,17 @@ export const ContactUs = () => {
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">
-            <h1 className="display-4 mb-4">Contact Me</h1>
+            <h1 className="display-4 mb-4">Contact Me
+              <Link to="/home" className="text_2">
+                <div id="container">
+                  <button class="learn-more">
+                    <span class="circle" aria-hidden="true">
+                      <span class="icon arrow"></span>
+                    </span>
+                    <span class="button-text">Return</span>
+                  </button>
+                </div>
+              </Link></h1>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
