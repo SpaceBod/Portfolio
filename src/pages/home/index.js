@@ -55,13 +55,13 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="/contact" className="text_2">
+                  <Link to="/about" className="text_2">
                     <div id="container">
                       <button class="learn-more">
                         <span class="circle" aria-hidden="true">
                           <span class="icon arrow"></span>
                         </span>
-                        <span class="button-text">Contact</span>
+                        <span class="button-text">About Me</span>
                       </button>
                     </div>
                   </Link>

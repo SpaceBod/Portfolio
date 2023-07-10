@@ -1,8 +1,9 @@
 import React from "react";
-import { Route, Routes} from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import withRouter from "../hooks/withRouter"
 import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
+import { GitHub } from "../pages/github";
 import { Photography } from "../pages/photography";
 import { ContactUs } from "../pages/contact";
 import { About } from "../pages/about";
@@ -24,6 +25,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route exact path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/github" element={<GitHub />} />
         <Route path="/photography" element={<Photography />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
