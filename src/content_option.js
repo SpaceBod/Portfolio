@@ -1,7 +1,7 @@
 const logotext = "My Portfolio";
 const meta = {
     title: "Portfolio",
-    description: "I’m Gian-Luca Fenocchi, current 3rd year student at Imperial College London, studying Electronic and Information Engineering (MEng).",
+    description: "I’m Gian-Luca Fenocchi, current 4th year student at Imperial College London, studying Electronic and Information Engineering (MEng).",
 };
 
 const introdata = {
@@ -11,13 +11,13 @@ const introdata = {
         second: "> Electronics enthusiast",
         third: "> Photographer",
     },
-    description: "Current 3rd year student at Imperial College London, studying Electronic and Information Engineering (MEng).",
+    description: "Current 4th year student at Imperial College London, studying Electronic and Information Engineering (MEng).",
     your_img_url: "https://raw.githubusercontent.com/SpaceBod/Portfolio/main/src/img/home.jpg",
 };
 
 const dataabout = {
     title: "Background",
-    aboutme: "As an Electronic & Information Engineer based in London, I have a passion for developing elegant, efficient solutions to complex problems. I have a strong interest in Artificial Intelligence and Machine Learning. With experience in programming languages such as Python, JavaScript, and C++, and a familiarity with frameworks like React and Node.js, I bring a diverse range of technical skills to my work. I thrive on collaborating with others to bring projects to life, and I am always looking for new challenges that push me to learn and grow. In addition to my technical skills, I am also an experienced photographer. I specialise in event, sport and portrait photography, and I am always looking for opportunities to use my creative eye to capture stunning images.",
+    aboutme: "As an Electronic & Information Engineer based in London, I have a passion for developing elegant, efficient solutions to complex problems. I have a strong interest in Artificial Intelligence and Software Engineering. With experience in programming languages such as Python, JavaScript, and C++, and a familiarity with frameworks like React and Node.js, I bring a diverse range of technical skills to my work. I thrive on collaborating with others to bring projects to life, and I am always looking for new challenges that push me to learn and grow. In addition to my technical skills, I am also an experienced photographer. I specialise in event, sport and portrait photography, and I am always looking for opportunities to use my creative eye to capture stunning images.",
 };
 const worktimeline = [{
     jobtitle: "MEng Student (2024)",
@@ -78,8 +78,8 @@ const services = [{
     description: "With experience in computer-aided design (CAD) software such as AutoCAD, SolidWorks, and Fusion 360, I am capable of creating CAD designs that help you bring ideas to life. I have created 2D and 3D models, technical drawings, and simulations that meet specific design requirements.",
 },
 {
-    title: "Data Manipulation",
-    description: "With experience in programming languages such as R and Python, I am able to manipulate and analyse data. I can clean and transform data, perform statistical analysis, and create visualisations to present data in a clear and concise manner.",
+    title: "Data Processing / Manipulation",
+    description: "With experience in programming languages such as R, Python and Julia, I am able to manipulate and analyse data. I can clean and transform data, perform statistical analysis, and create visualisations to present data in a clear and concise manner.",
 },
 ];
 
@@ -118,8 +118,6 @@ const contactConfig = {
     YOUR_EMAIL: "gianluca@fenocchi.net",
     YOUR_FONE: "(+44) 777 00 54312",
     description: "Please feel free to get in touch.",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_portfolio",
     YOUR_TEMPLATE_ID: "template_y1zqdgk",
     YOUR_USER_ID: "XzoRwYygcXU1fNGbB",
